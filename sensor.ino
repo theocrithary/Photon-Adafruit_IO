@@ -9,7 +9,7 @@
 #define DHT_SAMPLE_INTERVAL   60000    // Sample every sixty seconds
 
 // Adafruit paramters
-#define ADAFRUIT_API_KEY "677f5d70a52948e3835d24a29e55b78c"
+#define ADAFRUIT_API_KEY "*******************"
 #define ADAFRUIT_FEED_TEMPERATURE "Particle-Temperature"
 #define ADAFRUIT_FEED_HUMIDITY "Particle-Humidity"
 
